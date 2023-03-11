@@ -101,6 +101,7 @@ _NOTE: Security must have it's own, in-depth, review._
 * What's the percentage of public-facing APIs covered by tests?
 * Do you test your dependencies? What assumptions do you make on these?
 * How do you verify that your service's monitoring and alarming function as expected?
+* What is your GameDay plan?
 
 
 ---
