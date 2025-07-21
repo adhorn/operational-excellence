@@ -1,3 +1,5 @@
+# Correction-of-Error (COE) Template
+
 ### Investigation Guidelines
 
 **Language that promotes learning**:
