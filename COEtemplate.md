@@ -1,22 +1,5 @@
 # Correction-of-Error (COE) Template
 
-### Investigation Guidelines
-
-**Language that promotes learning**:
-* Use "contributing factors" instead of "root cause"
-* Say "systemic conditions" rather than "human error"  
-* Frame issues as "unexpected behavior" or "surprises" rather than "failures"
-* Focus on "learning" rather than "preventing"
-* Describe "influences" instead of "causes"
-
-**Interview approach**:
-* **Adopt a learning mindset**: Emphasize that the goal is understanding and improvement, not assigning blame
-* **Listen actively**: Pay attention to hesitations, uncertainties, or emotional responses that may indicate areas to explore further
-* **Encourage storytelling**: Allow people to narrate their experience rather than just answering discrete questions
-* **Probe with care**: When a response reveals a potential area for deeper understanding, follow up while maintaining psychological safety
-* **Consider multiple perspectives**: Interview different stakeholders to build a comprehensive picture
-* **Document context, not just answers**: Capture the conditions, constraints, and considerations that influenced decisions# Correction-of-Error (COE) Template
-
 ## Introduction
 
 A Correction-of-Error (COE) is our mechanism to learn from incidents, near-misses, and surprising system behaviors. We use COEs to understand not just what went wrong, but **why our defenses didn't work as expected** and how we can build better adaptive capacity.
