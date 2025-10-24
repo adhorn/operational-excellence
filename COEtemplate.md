@@ -307,7 +307,7 @@ List specific, actionable items that address the various systemic conditions tha
 
 **Important**: Ensure action items address contributing factors from multiple categories, not just the immediate technical fix.
 
-## 14 - Knowledge Sharing Plan
+## 15 - Knowledge Sharing Plan
 **How will lessons from this COE spread beyond your team?**
 
 * **Internal sharing**: How will you share findings with related teams?
