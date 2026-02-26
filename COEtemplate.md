@@ -72,6 +72,7 @@ The template provides structure while allowing flexibility to explore the unique
 1. Timeline
 1. Contributing Factors Analysis
 1. Surprises & Learning
+1. Unplanned Positive Outcomes
 1. Action Items
 1. Knowledge Sharing Plan
 
@@ -247,7 +248,21 @@ Instead of seeking a single root cause, explore multiple contributing factors ac
 
 **Key insight**: The goal is not just to fix what broke, but to understand why our mental models of the system were incomplete. These surprises are opportunities to build better adaptive capacity.
 
-## 13 - Action Items
+## 13 - Unplanned Positive Outcomes
+**Identify any unexpected benefits or improvements that arose from the incident and what these mean for improving the system**
+
+* What happened that prevented this incident from having a larger impact that was not due to prior planning or design?
+* This may be due to something as simple as timing (happened at a time there was low utilization) or plain luck with another system somehow mitigating the impact.
+* Think about aspects such as:
+  * System components that behaved more resiliently than expected or were able to handle higher loads than designed for
+  * Workarounds or improvisations by team members that mitigated impact
+  * External factors that lessened the severity of the incident such as mitigations adopted users
+  * The availability of resources (human and technical) that were not planned for but helped during the incident
+* What does this tell you about the system's resilience or adaptive capacity?
+* What does it tell you about the availability requirements of the system?
+* How can you build on these unplanned positive outcomes to further improve system resilience or formally integrate them into your design?
+
+## 14 - Action Items
 
 **Address multiple contributing factors, not just immediate technical issues**:
 
@@ -292,7 +307,7 @@ List specific, actionable items that address the various systemic conditions tha
 
 **Important**: Ensure action items address contributing factors from multiple categories, not just the immediate technical fix.
 
-## 14 - Knowledge Sharing Plan
+## 15 - Knowledge Sharing Plan
 **How will lessons from this COE spread beyond your team?**
 
 * **Internal sharing**: How will you share findings with related teams?
