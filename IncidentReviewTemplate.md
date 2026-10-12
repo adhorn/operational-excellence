@@ -1,5 +1,7 @@
 # Incident Review Template
 
+A branded PDF of this template is free at [resiliumlabs.com/templates/incident-review-template](https://resiliumlabs.com/templates/incident-review-template/).
+
 Every incident is an expensive lesson about the gap between how work is imagined and how it is actually done. This template helps teams extract maximum learning value from that cost by understanding not just what broke, but what the breakage reveals about gaps in understanding how systems actually work.
 
 This is about learning, not blame. Incident analysis helps teams discover why their mental models were incomplete and how to build better adaptive capacity.
