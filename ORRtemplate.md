@@ -1,5 +1,7 @@
 # Operational Readiness Review Template
 
+A branded PDF of this template is free at [resiliumlabs.com/templates/orr-template](https://resiliumlabs.com/templates/orr-template/).
+
 An Operational Readiness Review (ORR) is a rigorous, evidence-based assessment that evaluates a particular service's operational state. While ORRs are often tailored to a specific company's culture and tools, they all share the same fundamental goal: to help you find blind spots in your operations.
 
 This template is based on 25 years of experience building and operating software systems, refined over years of helping organizations practice resilience. It has been enhanced with resilience engineering principles to help teams build not just robust systems, but adaptive capacity to handle surprises.
